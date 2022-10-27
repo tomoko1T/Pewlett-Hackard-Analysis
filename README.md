@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# How to overcome Silver Tsunami!
 
 ## Overview of the analysis:
 
@@ -8,20 +8,34 @@ Now the following two assigments were ordered:
  - Determine the number of retiring employees per title
  - Identify employees who are eligible to participate in a mentorship program
 
-## Results:     Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
-total retirees 72458 
+## Results:     
+ 
+* Total number of retiree is 72,458 which indicates the number of future opening positions.  
 * Almost 70% of the retirees are acounted by Senior Engineer and Senior Staff positions.
-* number of eligible emplyoees are much lower than retirees so need to hire or open more
+* Total eligible employees for memtorship program are only 1,549 which is significantly lower number than the retirees.  
+* Pewlett Hackard may not be ready for Silver Tsunami based on the number 72,458 retirees vs 1,549 current eligible employees for memtorship program. 
+
+## Summary 
+
+There are 7 roles will need to be filled.  By conducting the additional analysis for the eligible employees for mentorship by title, there are only 6 roles.  None of those employee is at manager position.  It would be necessary to have the empolyees at other potision to be trained for the manager position as well.  
+
+![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Retirees%20count%20by%20title.png) 
+![This is an image]() 
+
+There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  As mentioned in the result section above, the number of retirees is much higher than the number of the eligible employees for mentorsship program.  Thus, it is necessary to look for current employees who who were born later than 1965 as well.  However, the current employee data has only the information people who were born before 1965.  The further data collection is highly recommended to expand the mentorship program eligibility.
+
+![This is an image]()
+
+pgAdmin sql is [GitHub Pages](https://github.com/tomoko1T/Pewlett-Hackard-Analysis)
 
 
 
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+
+
 
 
 
