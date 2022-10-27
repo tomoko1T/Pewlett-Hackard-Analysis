@@ -15,16 +15,19 @@ Now the following two assigments were ordered:
 * Total eligible employees for memtorship program are only 1,549 which is significantly lower number than the retirees.  
 * Pewlett Hackard may not be ready for Silver Tsunami based on the number 72,458 retirees vs 1,549 current eligible employees for memtorship program. 
 
+![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Retirees%20count%20by%20title.png) 
+![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Emp%20mentorship.png)
+
 ## Summary 
 
-There are 7 roles will need to be filled.  By conducting the additional analysis for the eligible employees for mentorship by title, there are only 6 roles.  None of those employee is at manager position.  It would be necessary to have the empolyees at other potision to be trained for the manager position as well.  
+There are 7 roles will need to be filled.  By conducting the additional analysis for the eligible employees for mentorship by title, there are only 6 roles.  The table on the right side below shows that none of those employee is at manager position.  It would be necessary to have the empolyees at other potision to be trained for the manager position as well.  
 
 ![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Retirees%20count%20by%20title.png) 
-![This is an image]() 
+![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Emp%20eligible_ment_by_title.png) 
 
 There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  As mentioned in the result section above, the number of retirees is much higher than the number of the eligible employees for mentorsship program.  Thus, it is necessary to look for current employees who who were born later than 1965 as well.  However, the current employee data has only the information people who were born before 1965.  The further data collection is highly recommended to expand the mentorship program eligibility.
 
-![This is an image]()
+![This is an image](https://github.com/tomoko1T/Pewlett-Hackard-Analysis/blob/main/Nodata_emp-borned_1966after.png)
 
 pgAdmin sql is [GitHub Pages](https://github.com/tomoko1T/Pewlett-Hackard-Analysis)
 
